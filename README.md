@@ -31,10 +31,11 @@ The dataset consisted of three tables, including information about campaigns, si
 - Some COVID-based campaigns also had abnormally high CACs at $1.2-$1.3K
 
 ## Recommendations
-- **Reallocate funding to "Health for All"**: Prioritise the high-performing campaigns by reallocating budget from campaigns with high CPS, such as Golden Years Security
-- **Focus on "Health Awareness" campaign category**: Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had a lower signup rate and CTR
-- **Investigate COVID Campaigns**: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that cost over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether
-- **Reduce investment in HealthyLiving campaign**: The highest-spending campaign ($46K) has mediocre signup rates compared to "Health for All" campaigns
+- **Reallocate funding to "Health for All" campaign category**: Prioritise the high-performing campaigns by reallocating budget from campaigns with high CPS, such as Golden Years Security
+- **Focus on "Health Awareness" campaign type**: Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had a lower signup rate and CTR
+- **Reduce investment in "HealthyLiving" campaign category**: The highest-spending campaign ($46K) has mediocre signup rates compared to "Health for All" campaigns
+- **Investigate "COVID Awareness" Campaign type**: Investigate the cause of abnormally high cost per signup for COVID-based campaigns across campaign categories, which had 2 signups that cost over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether
+
 
 ## Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/views/RowHealth_4Apr_JW/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
