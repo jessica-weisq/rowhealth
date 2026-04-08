@@ -1,9 +1,12 @@
 # Row Health Marketing Campaign Insights
 ## The project aims to analyse the performance of the 57 historical marketing campaigns from 2019-2023 to enable data-driven budget allocation. Additionally, it provides the marketing team with self-service dashboards for automated, high-cadence insight reporting
 
-**Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a series of marketing campaigns** spanning topics like wellness tips, plan affordability, and preventative care. Customers can sign up for four different plans—Bronze, Silver, Gold, and Platinum—each with different premiums and claim coverage rates. Over a four-year period, Row Health has acquired over 16,000 new signups and processed approximately 50,000 claims.
+**Founded in 2016, Row Health is a medical insurance company serving thousands of customers throughout the United States. In 2019, they launched a series of marketing campaigns** spanning topics like wellness tips, plan affordability, and preventative care. Customers can sign up for four different plans—Bronze, Silver, Gold, and Platinum—each with different premiums and claim coverage rates
+
+Over a four-year period, Row Health has acquired over 16,000 new signups and processed approximately 50,000 claims.
 
 Recently, Row Health hired a new data team to help with marketing budget decisions for the upcoming year. The company would like to better understand the effectiveness of these campaign categories and how they relate to signups and subsequent member claims.
+
 ## Dataset Structure
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information
 
