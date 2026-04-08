@@ -38,8 +38,7 @@ The dataset consisted of three tables, including information about campaigns, si
 - **Reduce investment in HealthyLiving campaign**: The highest-spending campaign ($46K) has mediocre signup rates compared to "Health for All" campaigns
 
 ## Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
-
+The dashboard can be found in Tableau Public [here]([https://public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard](https://public.tableau.com/app/profile/jessica.wei4470/viz/RowHealth_4Apr_JW/Dashboard)). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
 <img width="1191" height="792" alt="Screenshot 2026-04-08 at 16 26 05" src="https://github.com/user-attachments/assets/bcde0bb3-c68d-4f73-83f2-45161a3deeac" />
 
